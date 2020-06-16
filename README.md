@@ -21,7 +21,11 @@ To create the tables, download [KYC_init.sql](http://github.com) and read the fi
 ```javascript
 .read KYC_init.sql
 ```
-To populate data from csv to the sqlite tables, download [KYC_init.sql](http://github.com) and import into the sqlite console 
+
+To import [facial_similarity_reports.csv] into the *facial_similarity_reports* table, and [doc_reports.csv] into the *doc_report* table, do the following:
+1. Download the csv files
+2. Delete the first row (header) of the csv files
+3. Type the following commands in your console:
 ```javascript
 .mode csv
 .import C:/sqlite/facial_similarity_reports.csv facial_similarity_reports
