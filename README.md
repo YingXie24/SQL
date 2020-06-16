@@ -7,10 +7,6 @@ KYC_init.sql creates two tables:
 * **facial_similarity_reports:** number, user_id, result, face_comparison_result, created-at, facial_image_integrity_result, visual_authenticity_result, properties, and attempt_id.
 * **doc_reports:** number, user_id, result, visual_authenticity_result, image_integrity_result, face_detection_result, image_quality_result, created_at, supported_document_result, conclusive_document_quality_result, colour_picture_resultdata_validation_result, data_consistency_result, data_comparison_result, attempt_id, police_record_result, compromised_document_result, properties, sub_result 
 
-
-
-
-
 ## Usage
 
 To create the database:
@@ -21,12 +17,13 @@ To open the database:
 ```javascript
 sqlite3 ying_sql_work.db
 ```
-To create the tables, download KYC_init.sql and read the file:
+To create the tables, download [KYC_init.sql](http://github.com) and read the file:
 ```javascript
 .read KYC_init.sql
 ```
-To import data from csv to the sqlite console:
+To populate data from csv to the sqlite tables, download [KYC_init.sql](http://github.com) and import into the sqlite console 
 ```javascript
 .mode csv
-.import C
+.import C:/sqlite/facial_similarity_reports.csv facial_similarity_reports
+.import C:/sqlite/doc_reports.csv doc_reports
 ```
