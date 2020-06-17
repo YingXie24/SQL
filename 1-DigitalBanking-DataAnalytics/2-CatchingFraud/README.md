@@ -18,7 +18,7 @@ In this section, I wrote an SQL query to identify users whose first transaction 
 ## Finding fraudsters
 In this section, I was challenged to find 5 likely fraudsters, based on their transactional history. I then presented how I found them, and why they are likely fraudsters.
 
-### Information provided for the task
+## Information provided for the task
 I received 5 csv's for the analysis of customer transactional history:
 1. **countries.csv**: A table with all alpha-numeric representations of countries. 
 1. **fx_rates.csv**: A table with fx rates on a particular day.
@@ -28,6 +28,6 @@ I received 5 csv's for the analysis of customer transactional history:
 
 The csv files can be found in the [csv](https://github.com/YingXie24/SQL/tree/master/1-DigitalBanking-DataAnalytics/2-CatchingFraud/csv) directory.
 
-### My task deliverables
+## My task deliverables
 1. A PDF [report](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/2-CatchingFraud/Task2-CatchingFraud.pdf) on the solutions for Sections 1, 2 and 3;
 1. An SQL file containing queries used to parse and analyse the csv data.
