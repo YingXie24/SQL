@@ -10,7 +10,7 @@ There are two independent tasks in this challenge:
 * Catching fraud
 
 My submission for the tasks contains: 
-1. A pdf report of my findings and solutions for Improving KYC
+1. A PDF report of my findings and solutions for Improving KYC
 2. An Excel calculation file to support the material in Improving KYC
 2. A report for Catching Fraud
 
