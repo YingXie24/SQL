@@ -1,6 +1,6 @@
 # Digital Banking Data Analytics
 
-This project is a 1-week take-home task that forms part of my application as an operations manager at a top digital banking in the UK. 
+This project is a 1-week take-home task that forms part of my application as an operations manager at a top digital banking company in the UK. 
 The goal of this home task is to generate great ideas and solve problems that the company's team has faced in the past.
 
 To maintain confidentiality of the company, I will refer the company as X in the forthcoming text.
