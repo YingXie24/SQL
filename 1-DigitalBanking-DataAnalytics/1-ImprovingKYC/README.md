@@ -18,3 +18,5 @@ It is found that the pass rate has decreased substantially in the recent period.
 Two csv files were provided to me for analysis of the data:
 1. facial_similarity_reports.csv: Reports of all Facial similarity checks
 1. doc_reports.csv: Reports of all Document checks
+
+The csv files can be found in the [csv](https://github.com/YingXie24/SQL/tree/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/csv) directory
