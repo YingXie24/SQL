@@ -6,8 +6,8 @@ The goal of this home task is to generate great ideas and solve problems that th
 To maintain confidentiality of the company, I will refer the company as X in the forthcoming text.
 
 There are two independent tasks in this challenge: 
-* Improving KYC 
-* Catching fraud
+* [Improving KYC](https://github.com/YingXie24/SQL/tree/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC) 
+* [Catching fraud](https://github.com/YingXie24/SQL/tree/master/1-DigitalBanking-DataAnalytics/2-CatchingFraud)
 
 My submission for the tasks contains: 
 1. A PDF report of my findings and solutions for Improving KYC
