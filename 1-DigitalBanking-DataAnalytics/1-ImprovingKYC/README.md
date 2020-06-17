@@ -16,7 +16,7 @@ It is found that the pass rate has decreased substantially in the recent period.
 **This project aims to identify the root causes and solutions causing the decrease in pass rate.**
 
 ## Information provided for the task
-Two csv files were provided to me for analysis of the data:
+I received 2 csv's for analysis of the KYC process:
 1. **facial_similarity_reports.csv**: Reports of all Facial similarity checks
 1. **doc_reports.csv**: Reports of all Document checks
 
