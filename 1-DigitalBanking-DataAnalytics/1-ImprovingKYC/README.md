@@ -15,8 +15,14 @@ It is found that the pass rate has decreased substantially in the recent period.
 
 **This project aims to identify the root causes and solutions causing the decrease in pass rate.**
 
+### Information provided for the task
 Two csv files were provided to me for analysis of the data:
 1. facial_similarity_reports.csv: Reports of all Facial similarity checks
 1. doc_reports.csv: Reports of all Document checks
 
 The csv files can be found in the [csv](https://github.com/YingXie24/SQL/tree/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/csv) directory.
+
+### Deliverables
+1. A PDF report outlining the root causes and solutions to the problem;
+1. An Excel calculation spreadsheet to support the findings;
+1. As SQL file containing queries used to parse and analyse the csv data.
