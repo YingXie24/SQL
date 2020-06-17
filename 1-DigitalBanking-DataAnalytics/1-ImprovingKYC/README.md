@@ -11,6 +11,8 @@ The customer "passes" the KYC process if the results for both Document check and
 
 The "pass rate" is defined as the number of customer who pass both Document and Facial similarity checks, divided by the number of customers who attempt the process. 
 
+Each customer hsa up to 2 attempts for the KYC process.
+
 It is found that the pass rate has decreased substantially in the recent period. 
 
 **This project aims to identify the root causes and solutions causing the decrease in pass rate.**
@@ -23,6 +25,6 @@ Two csv files were provided to me for analysis of the data:
 The csv files can be found in the [csv](https://github.com/YingXie24/SQL/tree/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/csv) directory.
 
 ### Deliverables
-1. A PDF report outlining the root causes and solutions to the problem;
+1. A PDF report outlining the root causes and solutions to the problem, as well as inconsistencies in the data;
 1. An Excel calculation spreadsheet to support the findings;
 1. As SQL file containing queries used to parse and analyse the csv data.
