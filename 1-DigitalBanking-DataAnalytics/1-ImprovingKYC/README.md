@@ -24,5 +24,5 @@ The csv files can be found in the [csv](https://github.com/YingXie24/SQL/tree/ma
 
 ### My task deliverables
 1. A PDF [report](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/Task1-ImprovingKYC-github.pdf) outlining the root causes and solutions to the problem, as well as inconsistencies in the data;
-1. An Excel calculation [spreadsheet] (https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/Supporting_materials.xlsx) to support the findings;
+1. An Excel calculation [spreadsheet](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/Supporting_materials.xlsx) to support the findings;
 1. As SQL file containing queries used to parse and analyse the csv data.
