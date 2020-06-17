@@ -9,9 +9,7 @@ Two checks will be performed:
 
 The customer "passes" the KYC process if the results for both Document check and Facial similarity checks are "clear". If the result of any check is not "clear", the customer has to submit all the photos again.
 
-The "pass rate" is defined as the number of customer who pass both Document and Facial similarity checks, divided by the number of customers who attempt the process. 
-
-Each customer hsa up to 2 attempts for the KYC process.
+The "pass rate" is defined as the number of customer who pass both Document and Facial similarity checks, divided by the number of customers who attempt the process. Each customer has up to 2 attempts for the KYC process.
 
 It is found that the pass rate has decreased substantially in the recent period. 
 
