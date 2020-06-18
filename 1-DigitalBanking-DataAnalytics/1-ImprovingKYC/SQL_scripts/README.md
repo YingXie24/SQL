@@ -35,5 +35,5 @@ To analyse the data in the tables, either copy+ paste the queries in
 * [KYC-1-PassingRates.sql](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/SQL_scripts/KYC-1-PassingRates.sql)
 * [KYC-2-DocumentChecks.sql](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/SQL_scripts/KYC-2-DocumentChecks.sql)
 * [KYC-3-DataDiscrepancies.sql](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/SQL_scripts/KYC-3-DocumentChecks.sql)
-or download the sql files and read them. 
-download 
+
+into your sqlite3 console or download the sql files and read them. 
