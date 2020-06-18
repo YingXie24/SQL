@@ -31,10 +31,10 @@ To import the csv's into your sqlite3 console table, do the following:
 .import *path to the csv on your machine* *table_name*
 ```
 
-Data under the CREATED_DATE column in transactions.xls is edited to conform to the SQL TIMESTAMP format: YYYY-MM-DD HH:MI:SS
+Data under the CREATED_DATE column in transactions.xls is edited to conform to the SQL TIMESTAMP format: YYYY-MM-DD HH:MI:SS. Do the following: 
 1. Open transactions.xls on your machine.
 1. Right click on the CREATED_DATE column,
-1. Under "format cells", choose category date and then the desired timestamp format
+1. Under "Format cells", choose category date and then the desired timestamp format
 
 Because the transactions spreadsheet is in the xls format, rather than the csv format, convert it into .csv before importing it to the sqlite3 console. 
 
