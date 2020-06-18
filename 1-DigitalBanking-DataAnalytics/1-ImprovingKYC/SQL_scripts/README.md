@@ -17,7 +17,7 @@ To open the database:
 ```javascript
 sqlite3 ying_sql_work.db
 ```
-To create the tables, download [KYC_init.sql](addhere) and read the file:
+To create the tables, download [KYC-0-Init.sql](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/SQL_scripts/KYC-0-Init.sql) and read the file:
 ```javascript
 .read KYC_init.sql
 ```
@@ -31,4 +31,9 @@ To import [facial_similarity_reports.csv](https://github.com/YingXie24/SQL/blob/
 .import *path to the doc_reports_without_header.csv on your machine* doc_reports
 ```
 
-The SQL queries that I used to arrive at my report finding can be found at [SQL_scripts](addhere) directory. Copy and paste the queries to your sqlite3 console.
+To analyse the data in the tables, either copy+ paste the queries in 
+* [KYC-1-PassingRates.sql](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/SQL_scripts/KYC-1-PassingRates.sql)
+* [KYC-2-DocumentChecks.sql](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/SQL_scripts/KYC-2-DocumentChecks.sql)
+* [KYC-3-DataDiscrepancies.sql](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/1-ImprovingKYC/SQL_scripts/KYC-3-DocumentChecks.sql)
+or download the sql files and read them. 
+download 
