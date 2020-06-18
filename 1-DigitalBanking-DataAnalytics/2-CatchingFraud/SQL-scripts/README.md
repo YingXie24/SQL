@@ -22,7 +22,7 @@ To create the tables, download [CatchingFraud-0-Init.sql](addhere) and read the 
 ```javascript
 .read CatchingFraud-0-Init.sql
 ```
-To import the csv's into your sqlite3 console table, do the following:
+To import the csv's into your sqlite3 table, do the following:
 1. Download the csv files
 2. Delete the first row (header) of the csv files
 3. Type the following commands in your console:
