@@ -30,4 +30,4 @@ The csv files can be found in the [csv](https://github.com/YingXie24/SQL/tree/ma
 
 ## My task deliverables
 1. A PDF [report](https://github.com/YingXie24/SQL/blob/master/1-DigitalBanking-DataAnalytics/2-CatchingFraud/Task2-CatchingFraud.pdf) on the solutions for Sections 1, 2 and 3;
-1. An SQL file containing queries used to parse and analyse the csv data.
+1. SQL files containing queries used to parse and analyse the csv data.
